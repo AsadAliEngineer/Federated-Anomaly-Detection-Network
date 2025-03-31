@@ -182,7 +182,7 @@ Federated-Anomaly-Detection-Network/
 ### Install the package
 
 ```bash
-git clone https://github.com/AsadAliEng/Federated-Anomaly-Detection-Network.git
+git clone https://github.com/AsadAliEngineer/Federated-Anomaly-Detection-Network.git
 cd Federated-Anomaly-Detection-Network
 
 python -m venv .federatedvenv
@@ -271,13 +271,13 @@ Licensed under the **MIT License**. See [`LICENSE`](LICENSE) for the complete te
 <table>
   <tr>
     <td width="150" align="center">
-      <img src="https://github.com/AsadAliEng.png?size=160" width="120" alt="Asad Ali GitHub avatar"><br>
+      <img src="https://github.com/AsadAliEngineer.png?size=160" width="120" alt="Asad Ali GitHub avatar"><br>
       <strong>Asad Ali</strong>
     </td>
     <td>
       <strong>AI, Blockchain & Software Engineer</strong><br><br>
-      🐙 GitHub: <a href="https://github.com/AsadAliEng">@AsadAliEng</a><br>
-      📧 Email: <a href="mailto:asadali.cryptoeng@gmail.com">asadali.cryptoeng@gmail.com</a><br>
+      🐙 GitHub: <a href="https://github.com/AsadAliEngineer">@AsadAliEngineer</a><br>
+      📧 Email: <a href="mailto:asadalieng1107@gmail.com">asadalieng1107@gmail.com</a><br>
       🚀 Focus: intelligent systems, federated ML, AI security, Web3 products, automation, and production-oriented engineering
     </td>
   </tr>
